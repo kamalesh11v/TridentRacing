@@ -94,7 +94,7 @@ export const Team = () => {
    <img src="/assets/mohitgulhane.jpg"></img>
   </b>
   <div className="content2">
-    <p className="partitle">Mohit Gulhane<br></br><span>Suspension And Steering</span></p>
+    <p className="partitle">Mohit Gulhane<br></br><span>Braking</span></p>
     <ul className="sci">
       <li>
         <a href="#">

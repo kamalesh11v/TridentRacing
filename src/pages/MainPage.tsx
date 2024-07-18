@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { Footer } from '../components/Footer';
 import Navbar from '../components/Navbar'; // Adjust the path as per your project structure
 import '../index.css'
+import {Link} from 'react-router-dom';
 
 const MainPage = () => {
   const dynamicPhrases = ['Create', 'Build', 'Conquer'];
@@ -48,7 +49,7 @@ const MainPage = () => {
         </div>
 
         <div className='absolute sm:top-[73%] left-1/2 top-[65%] transform -translate-x-1/2 mt-5'>
-          <button className='btn'>Contact Us</button>
+          <Link to='/contactus'><button className='btn'>Contact Us</button></Link>
         </div>
       </div>
     </div>
@@ -93,7 +94,7 @@ const MainPage = () => {
       <p className="pt-4">By Becoming our Sponsor</p>
     </div>
     <div className="mt-8">
-      <button
+     <Link to='/contactus'><button
         className="overflow-hidden w-32 p-2 h-12 bg-black text-white border-none rounded-md text-xl font-bold cursor-pointer relative z-10 group"
       >
         Contact Us
@@ -109,7 +110,7 @@ const MainPage = () => {
         <span
           className="group-hover:opacity-100 group-hover:duration-1000 duration-100 opacity-0 absolute top-2.5 left-6 z-10"
         >Explore!</span>
-      </button>
+      </button></Link>
     </div>
   </div>
 </div>

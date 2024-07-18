@@ -583,7 +583,7 @@ ul{list-style: none}
 .card7 img {
   position: absolute;
   z-index: 3;
-  opacity:0.6;
+  opacity:0.9;
   scale:0.8;
   aspect-ratio: 1/1;
   object-fit: contain;
