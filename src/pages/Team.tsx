@@ -16,7 +16,7 @@ export const Team = () => {
          <div className="card7">
          
   <b>
-  <img src='/src/assets/alokjha.jpg' className='w-full'></img>
+  <img src='/assets/alokjha.jpg' className='w-full'></img>
   </b>
   <div className="content2">
     
@@ -52,7 +52,7 @@ export const Team = () => {
 
 <div className="card7">
   <b>
-  <img src="/src/assets/arjun.jpg"></img>
+  <img src="/assets/arjun.jpg"></img>
   </b>
   <div className="content2">
     <p className="partitle">Arjun Singh<br></br><span>Captain</span></p>
@@ -91,7 +91,7 @@ export const Team = () => {
          <div className="card7">
 
   <b>
-   <img src="/src/assets/mohitgulhane.jpg"></img>
+   <img src="/assets/mohitgulhane.jpg"></img>
   </b>
   <div className="content2">
     <p className="partitle">Mohit Gulhane<br></br><span>Suspension And Steering</span></p>
@@ -126,7 +126,7 @@ export const Team = () => {
 
 <div className="card7">
   <b>
-    <img src="/src/assets/amogh.jpg"></img>
+    <img src="/assets/amogh.jpg"></img>
   </b>
   <div className="content2">
     <p className="partitle">Amogh Devgirkar<br></br><span>CAE</span></p>
@@ -163,7 +163,7 @@ export const Team = () => {
 
 <div className="card7">
   <b>
-    <img src='/src/assets/asthal.jpg'></img>
+    <img src='/assets/asthal.jpg'></img>
   </b>
   <div className="content2">
     <p className="partitle">Astha Lanjewar<br></br><span>Costing</span></p>
@@ -200,7 +200,7 @@ export const Team = () => {
 
 <div className="card7">
   <b>
-    <img src='/src/assets/dhruv.jpg'></img>
+    <img src='/assets/dhruv.jpg'></img>
   </b>
   <div className="content2">
     <p className="partitle">Dhruv Dhorlajiya<br></br><span>Design</span></p>
@@ -242,7 +242,7 @@ export const Team = () => {
 
         <div className="card7">
   <b>
-    <img src='/src/assets/kartik.jpg'></img>
+    <img src='/assets/kartik.jpg'></img>
   </b>
   <div className="content2">
     <p className="partitle">Kartik Bawre<br></br><span>EPT</span></p>
@@ -276,7 +276,7 @@ export const Team = () => {
 
 <div className="card7">
   <b>
-    <img src='/src/assets/arman.jpg'></img>
+    <img src='/assets/arman.jpg'></img>
   </b>
   <div className="content2">
     <p className="partitle">Arman Ghai<br></br><span>Suspension & Steering</span></p>
@@ -310,7 +310,7 @@ export const Team = () => {
 
 <div className="card7">
   <b>
-    <img src='/src/assets/devyani.jpg'></img>
+    <img src='/assets/devyani.jpg'></img>
   </b>
   <div className="content2">
     <p className="partitle">Devyani Likhar<br></br><span>Braking</span></p>
@@ -344,7 +344,7 @@ export const Team = () => {
 
 <div className="card7">
   <b>
-      <img src='/src/assets/panky.jpg'></img>
+      <img src='/assets/panky.jpg'></img>
   </b>
   <div className="content2">
     <p className="partitle">Nisarg Pankey<br></br><span>PR</span></p>
@@ -381,7 +381,7 @@ export const Team = () => {
         <div className='sm:flex-row sm:flex sm:justify-center sm:gap-28 mt-16 flex-col justify-center items-center flex gap-8'>
         <div className="card7">
   <b>
-    <img src='/src/assets/fary.jpg'></img>
+    <img src='/assets/fary.jpg'></img>
   </b>
   <div className="content2">
     <p className="partitle">Farhan<br></br><span>Braking</span></p>
@@ -418,7 +418,7 @@ export const Team = () => {
 
 <div className="card7">
   <b>
-    <img src='/src/assets/anushree.png'></img>
+    <img src='/assets/anushree.png'></img>
   </b>
   <div className="content2">
     <p className="partitle">Anushree Jain<br></br><span>Electrical</span></p>
