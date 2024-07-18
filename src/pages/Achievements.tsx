@@ -22,7 +22,7 @@ export const Achievements = ()=>{
         <div className='sm:flex-row sm:justify-center sm:gap-28 flex flex-col items-center bg-gray-900 pt-16 gap-12'>
         <div className="relative flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
   <div className="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-gradient-to-r from-blue-500 to-blue-600">
-    <img src='/src/assets/accln.jpg' className='w-full'></img>
+    <img src='/assets/accln.jpg' className='w-full'></img>
  </div>
   <div className="p-6">
     <h5 className="mb-2 block font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
@@ -41,7 +41,7 @@ export const Achievements = ()=>{
 
 <div className="relative flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
   <div className="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-gradient-to-r from-blue-500 to-blue-600">
-      <img src='/src/assets/manuveribility.jpeg.jpg' className='w-full'></img>
+      <img src='/assets/manuveribility.jpeg.jpg' className='w-full'></img>
   </div>
   <div className="p-6">
     <h5 className="mb-2 block font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
@@ -62,7 +62,7 @@ export const Achievements = ()=>{
 
 <div className="relative flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
   <div className="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-gradient-to-r from-blue-500 to-blue-600">
-      <img src='/src/assets/sledgepull.jpeg.jpg' className='w-full'></img>
+      <img src='/assets/sledgepull.jpeg.jpg' className='w-full'></img>
   </div>
   <div className="p-6">
     <h5 className="mb-2 block font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
@@ -86,7 +86,7 @@ export const Achievements = ()=>{
 
 <div className="relative flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
   <div className="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-gradient-to-r from-blue-500 to-blue-600">
-      <img src='/src/assets/suspension.jpg' className='w-full'/>
+      <img src='/assets/suspension.jpg' className='w-full'/>
   </div>
   <div className="p-6">
     <h5 className="mb-2 block font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
@@ -105,7 +105,7 @@ export const Achievements = ()=>{
 
 <div className="relative flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
   <div className="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-gradient-to-r from-blue-500 to-blue-600">
-      <img src='/src/assets/endurance.jpg'></img>
+      <img src='/assets/endurance.jpg'></img>
   </div>
   <div className="p-6">
     <h5 className="mb-2 block font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">

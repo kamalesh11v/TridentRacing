@@ -5,19 +5,19 @@ import '../index.css';
 export const Sponsors = () => {
   // List of sponsor images
   const sponsorImages = [
-    '/src/assets/sponsor1.png',
-    '/src/assets/sponsor2.png',
-    '/src/assets/sponsor3.jpg',
-    '/src/assets/sponsor4.jpg',
-    '/src/assets/sponsor5.jpg',
-    '/src/assets/sponsor6.png',
-    '/src/assets/sponsor7.jpg',
-    '/src/assets/sponsor8.jpg',
-    '/src/assets/sponsor9.png',
-    '/src/assets/sponsor10.png',
-    '/src/assets/sponsor11.png',
-    '/src/assets/sponsor12.png',
-    '/src/assets/sponsor13.jpg',
+    '/assets/sponsor1.png',
+    '/assets/sponsor2.png',
+    '/assets/sponsor3.jpg',
+    '/assets/sponsor4.jpg',
+    '/assets/sponsor5.jpg',
+    '/assets/sponsor6.png',
+    '/assets/sponsor7.jpg',
+    '/assets/sponsor8.jpg',
+    '/assets/sponsor9.png',
+    '/assets/sponsor10.png',
+    '/assets/sponsor11.png',
+    '/assets/sponsor12.png',
+    '/assets/sponsor13.jpg',
     // Add more images as needed
   ];
 

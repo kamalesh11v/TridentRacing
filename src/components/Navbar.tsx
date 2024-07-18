@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <div className="flex items-center">
-            <img src='/src/assets/tridentlogo.png' alt="Flowbite Logo" className="h-24 w-full" />
+            <img src='/assets/tridentlogo.png' alt="Flowbite Logo" className="h-24 w-full" />
            
           </div>
           {/* Hamburger menu button */}

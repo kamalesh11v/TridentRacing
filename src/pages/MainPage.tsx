@@ -26,7 +26,7 @@ const MainPage = () => {
   
     <div className="relative">
       <div className="h-screen">
-        <img src='/src/assets/car1.jpg' className="w-full h-full object-cover" alt="Car Background"/>
+        <img src='/assets/car1.jpg' className="w-full h-full object-cover" alt="Car Background"/>
         <div className="absolute inset-0 bg-black opacity-60"></div>
         <div className="absolute top-0 left-0 right-0 z-10">
           <Navbar />
