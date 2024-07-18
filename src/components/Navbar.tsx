@@ -75,9 +75,9 @@ const Navbar = () => {
             <div className="flex flex-col space-y-4">
               <Link to="/" className="text-white hover:text-gray-900">Home</Link>
               <Link to="/achievements" className="text-white hover:text-gray-900">Achievements</Link>
-              <Link to="/about" className="text-white hover:text-gray-900">About</Link>
-              <Link to='/services' className="text-white hover:text-gray-900">Services</Link>
-              <Link to='/contactus' className="text-white hover:text-gray-900">Contact Us</Link>
+              <Link to="/team" className="text-white hover:text-gray-900">Team</Link>
+              <Link to='/sponsors' className="text-white hover:text-gray-900">Sponsors</Link>
+              <Link to='/contactus' className="text-white hover:text-gray-900">Contact Ugs</Link>
             </div>
           </div>
         )}
