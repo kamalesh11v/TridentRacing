@@ -5,8 +5,8 @@ import '../index.css'
 import {Link} from 'react-router-dom';
 
 const MainPage = () => {
-  const dynamicPhrases = ['Create', 'Build', 'Conquer'];
-  const staticText = 'We';
+  const dynamicPhrases = ['Dream', 'Create', 'Conquer'];
+  const staticText = '';
   const [currentPhraseIndex, setCurrentPhraseIndex] = useState(0);
   const [isVisible, setIsVisible] = useState(true);
 

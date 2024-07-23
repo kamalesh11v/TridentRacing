@@ -17,13 +17,13 @@ export const Footer = () =>{
             <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="social-icon bg-blue-800 hover:bg-blue-600 p-3 rounded-full flex items-center justify-center transform transition-transform duration-300 hover:scale-110">
                 <FaFacebookF className="w-6 h-6" />
             </a>
-            <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon bg-blue-700 hover:bg-blue-500 p-3 rounded-full flex items-center justify-center transform transition-transform duration-300 hover:scale-110">
+            <a href="https://www.linkedin.com/company/trident-racing-rcoem/" target="_blank" rel="noopener noreferrer" className="social-icon bg-blue-700 hover:bg-blue-500 p-3 rounded-full flex items-center justify-center transform transition-transform duration-300 hover:scale-110">
                 <FaLinkedinIn className="w-6 h-6" />
             </a>
             <a href="https://www.instagram.com/trident_rcoem?igsh=ZmFsYjRoM3JjOTJw" target="_blank" rel="noopener noreferrer" className="social-icon bg-gradient-to-r from-yellow-400 via-pink-500 to-purple-600 hover:from-yellow-300 hover:via-pink-400 hover:to-purple-500 p-3 rounded-full flex items-center justify-center transform transition-transform duration-300 hover:scale-110">
                 <FaInstagram className="w-6 h-6" />
             </a>
-            <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer" className="social-icon bg-blue-500 hover:bg-blue-400 p-3 rounded-full flex items-center justify-center transform transition-transform duration-300 hover:scale-110">
+            <a href="https://x.com/tridentracing" target="_blank" rel="noopener noreferrer" className="social-icon bg-blue-500 hover:bg-blue-400 p-3 rounded-full flex items-center justify-center transform transition-transform duration-300 hover:scale-110">
                 <FaTwitter className="w-6 h-6" />
             </a>
         </div>

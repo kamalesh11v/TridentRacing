@@ -15,7 +15,7 @@ export const Achievements = ()=>{
         <TimelineComponent ></TimelineComponent>
 
         <div className=' text-3xl font-semibold text-white bg-gray-900 text-center'>
-            About the Competetion
+            About the Competition
         </div>
 
        
@@ -45,10 +45,10 @@ export const Achievements = ()=>{
   </div>
   <div className="p-6">
     <h5 className="mb-2 block font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
-     Manueveribility Test
+     Manoeuvrability Test
     </h5>
     <p className="block font-sans text-base font-light leading-relaxed text-inherit antialiased">
-      Maneuvaribility is designed to assess each vehicle's agility and handling ability over off-road terrain.
+      Manoeuvrability is designed to assess each vehicle's agility and handling ability over off-road terrain.
     </p>
   </div>
   <div className="p-6 pt-0">
